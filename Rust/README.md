@@ -1,17 +1,17 @@
-# Rust
+# Swift
 
 ## Commenting-Out
 
-- Confirmed working on rustc v1.53.0 (MacOS), but throws unused variable warning
+- Confirmed working on Apple Swift version 5.1.3 (swift-5.1.3-RELEASE)
 
 ## Stretched String
 
-- Confirmed working on rustc v1.53.0 (MacOS)
+- Confirmed working on Apple Swift version 5.1.3 (swift-5.1.3-RELEASE)
 
 ## Invisible Function
 
-- Does not work on rustc v1.53.0 (MacOS) - throws unknown token error
+- Confirmed working on Apple Swift version 5.1.3 (swift-5.1.3-RELEASE)
 
 ## Homoglyph Function
 
-- Confirmed working on rustc v1.53.0 (MacOS), but throws mixed_script_confusables warning
+- Confirmed working on Apple Swift version 5.1.3 (swift-5.1.3-RELEASE)
